@@ -21,5 +21,4 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, yet powerful, providing tools needed for large, robust applications.
 
-This project contains a contact form using laravel and Bootstrap. The website has 3 pages: Home, About and Contact. A sidebar is also provided. This website was developed as a practice to baisc Laravel functionalities. 
-
+This project contains a contact form using laravel and Bootstrap. The website has 3 pages: Home, About and Contact, a sidebar, a navbar and footer . The contact form allows users to send a message by providing their email id and name. The messages are then stored in a database. These messages are also shown on a different page on the website only accessible to the admin. This website was developed as a practice of the basic Laravel functionalities.
